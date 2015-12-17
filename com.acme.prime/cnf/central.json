@@ -1,0 +1,9 @@
+{
+ "revisionRefs":[{
+  "artifactId":"parsii","baseline":"1.5.0","bsn":"com.scireum__parsii","created":1423646189000,"description":"parsii is a super fast and lightweight parser and expression evaluator","groupId":"com.scireum","md5":"813EA03A12B2277AF28EEFE8C7BA27E1","name":"parsii","phase":"MASTER","revision":"9357C0CDA2A8FBBE34B6BD5F13DCD4DD270DB99A","size":47551,"urls":["http://repo1.maven.org/maven2/com/scireum/parsii/1.5/parsii-1.5.jar"],"version":"1.5"
+ },{
+  "artifactId":"junit","baseline":"4.12.0","bsn":"junit__junit","created":1415548411000,"description":"JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.","errors":1,"groupId":"junit","md5":"A800F428D34A0B5FDEF012472CF1220A","name":"JUnit","phase":"MASTER","qualifier":"beta-3","revision":"C3B3E612612FCBB9FAA46D10D2D69E3B21A062FE","size":314944,"tag":"r4.12-beta-3","urls":["http://repo1.maven.org/maven2/junit/junit/4.12-beta-3/junit-4.12-beta-3.jar"],"version":"4.12-beta-3"
+ },{
+  "artifactId":"xml-resolver","baseline":"1.2.0","bsn":"xml-resolver__xml-resolver","created":1166794672000,"description":"xml-commons provides an Apache-hosted set of DOM, SAX, and \n    JAXP interfaces for use in other xml-based projects. Our hope is that we \n    can standardize on both a common version and packaging scheme for these \n    critical XML standards interfaces to make the lives of both our developers \n    and users easier.","groupId":"xml-resolver","md5":"706C533146C1F4EE46B66659EA14583A","name":"XML Commons Resolver Component","phase":"MASTER","revision":"3D0F97750B3A03E0971831566067754BA4BFD68C","size":84091,"urls":["http://repo1.maven.org/maven2/xml-resolver/xml-resolver/1.2/xml-resolver-1.2.jar"],"version":"1.2"
+ }]
+}
